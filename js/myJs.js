@@ -23,7 +23,7 @@ From : inputemail ,
 Subject : inputsubject ,
 Body : inputmessage
 }).then(
-message => alert("your message is sending  successfully")
+message => alert("your message is sending  successfully>>>>>>>>>>")
 );
      } else{
       alert("Invalid email address!");
