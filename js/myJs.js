@@ -14,7 +14,7 @@ function sendEmail() {
 if (inputemail.match(validRegex)) {
 var yourInformation= "you name is :"+inputname +"\n your email is :"+inputemail;
   confirm(yourInformation +"\n do you want to send the message!!!");
-  alert("your message is sending  successfully");
+  //alert("your message is sending  successfully");
 
 mail.send({
 Host : "amalawad.github.io",
