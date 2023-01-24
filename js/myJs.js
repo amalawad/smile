@@ -17,7 +17,7 @@ var yourInformation= "you name is :"+inputname +"\n your email is :"+inputemail;
   alert("your message is sending  successfully");
 
 mail.send({
-Host : "https://github.com/amalawad/smile.git",
+Host : "amalawad.github.io",
 To : 'amalawad1992@gmail.com',
 From : inputemail ,
 Subject : inputsubject ,
